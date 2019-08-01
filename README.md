@@ -3,4 +3,5 @@ This is a hotfix branch, and it's created on the web.
 
 # Test3
 
-hotfix and master merge.
+This is a hotfix1 branch which is created in local computer.
+
